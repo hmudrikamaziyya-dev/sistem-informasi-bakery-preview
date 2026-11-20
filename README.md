@@ -8,6 +8,7 @@ Preview ini dibuat dari aplikasi yang berjalan secara lokal pada 20 November 202
 - [po-PO-20261121-01.html](po-PO-20261121-01.html) &larr; `/po/PO-20261121-01`
 - [bayar-PO-20261121-01-010.html](bayar-PO-20261121-01-010.html) &larr; `/bayar/PO-20261121-01-010`
 - [order-PO-20261121-01-010.html](order-PO-20261121-01-010.html) &larr; `/order/PO-20261121-01-010`
+- [feedback-PO-20261121-01-003.html](feedback-PO-20261121-01-003.html) &larr; `/feedback/PO-20261121-01-003`
 - [order-PO-20261114-01-001.html](order-PO-20261114-01-001.html) &larr; `/order/PO-20261114-01-001`
 - [admin-login.html](admin-login.html) &larr; `/admin/login`
 - [admin-dashboard.html](admin-dashboard.html) &larr; `/admin`
@@ -18,6 +19,7 @@ Preview ini dibuat dari aplikasi yang berjalan secara lokal pada 20 November 202
 - [admin-ingredients.html](admin-ingredients.html) &larr; `/admin/ingredients`
 - [admin-shopping.html](admin-shopping.html) &larr; `/admin/shopping?po=cmwmyrb4d0008gdd0lj0293s0`
 - [admin-customers.html](admin-customers.html) &larr; `/admin/customers`
+- [admin-feedback.html](admin-feedback.html) &larr; `/admin/feedback`
 - [admin-profit.html](admin-profit.html) &larr; `/admin/profit?po=cmwmyrb4d0008gdd0lj0293s0`
 - [admin-expenses.html](admin-expenses.html) &larr; `/admin/expenses`
 - [admin-sales.html](admin-sales.html) &larr; `/admin/sales`
