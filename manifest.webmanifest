@@ -1,0 +1,17 @@
+{
+  "name": "PO Bolu — Pesan Online",
+  "short_name": "PO Bolu",
+  "description": "Pesan bolu rumahan dengan mudah.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf7f1",
+  "theme_color": "#633a1f",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
