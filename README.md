@@ -15,6 +15,8 @@ Preview ini dibuat dari aplikasi yang berjalan secara lokal pada 20 November 202
 - [admin-login.html](admin-login.html) &larr; `/admin/login`
 - [admin-dashboard.html](admin-dashboard.html) &larr; `/admin`
 - [admin-po.html](admin-po.html) &larr; `/admin/po`
+- [admin-variants.html](admin-variants.html) &larr; `/admin/variants`
+- [admin-settings.html](admin-settings.html) &larr; `/admin/settings`
 - [admin-orders.html](admin-orders.html) &larr; `/admin/orders`
 - [admin-payments.html](admin-payments.html) &larr; `/admin/payments`
 - [admin-recipes.html](admin-recipes.html) &larr; `/admin/recipes`
